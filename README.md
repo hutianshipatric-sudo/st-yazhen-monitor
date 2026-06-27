@@ -1,5 +1,3 @@
-# ST亚振摘帽事件监测仪表盘
-
 ## 文件
 - `st_yazhen_event_monitor_app.py`：Streamlit 主程序
 - `st_yazhen_requirements.txt`：依赖包
